@@ -1,0 +1,19 @@
+{
+  "name": "staging-activities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaolosese/staging-activities.git"
+  },
+  "author": "Jose Paolo Sese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpaolosese/staging-activities/issues"
+  },
+  "homepage": "https://github.com/jpaolosese/staging-activities#readme"
+}
